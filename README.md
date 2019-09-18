@@ -9,13 +9,13 @@ No. : 12
 
 The figures below are interface of elevator in the building of Department of Industrial, Manufacturing & Systems Engineering.
 
-![IMS_elevator](https://imgur.com/a/3a02eGI)
+![graph](https://imgur.com/a/3a02eGI)
 ![Bao_gif](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
 
 This interface has several excellent points as well as inconveniences for users, especially for international students.
 However, I only focus on its bad design.
 
-![graph3](https://imgur.com/a/fNvuMk5)
+![graph](https://imgur.com/a/fNvuMk5)
 
 One disadvantage is that the distance between buttons and their signs is too large.
 Moreover, the color of these buttons is quite similar to the color of the elevator.
@@ -33,14 +33,14 @@ The signs are internationally used, so even non-English speakers can understand 
 
 Here is my design for the interface
 
-![graph4](https://imgur.com/a/CZa78xT)
+![graph](https://imgur.com/a/CZa78xT)
 
 Firstly, I put the signs into the buttons with a light around each.
 If the button is pressed, the blue light will turn to red to clarify that the elevator knows where it should go.
 The color will turn to green when it comes to the floor which was required.
 This might help to improve the interactions between users and the elevator.
 
-![graph5](https://imgur.com/a/SgPd2va)
+![graph](https://imgur.com/a/SgPd2va)
 
 Secondly, the order of buttons is now vertical instead of horizontal one, for I believe it meets the common sense of most users.
 
@@ -52,7 +52,7 @@ Therefore, I believe an integrated button is better for emergency.
 Fourthly, I give up the *Stop* because some individuals can use it for their criminal activities.
 This button might be move to another area instead of the user one in case authority need to use it.
 
-![graph6](https://imgur.com/a/qT43q8e)
+![graph](https://imgur.com/a/qT43q8e)
 
 Finally, I use Braille letter for blind people.
 They can also touch the button to know if they come to the floor they want or not.
