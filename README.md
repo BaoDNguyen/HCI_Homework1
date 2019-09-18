@@ -9,7 +9,7 @@ No. : 12
 
 The figures below are interface of elevator in the building of Department of Industrial, Manufacturing & Systems Engineering.
 
-![graph](https://imgur.com/a/3a02eGI)
+![graph](https://i.imgur.com/ZhDDi60.png)
 ![Bao_gif](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
 
 This interface has several excellent points as well as inconveniences for users, especially for international students.
