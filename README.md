@@ -1,8 +1,8 @@
 # Homework 1
 
-Class: Human Computer Interaction, CS 5332\\
-Name: Bao Dien Quoc Nguyen\\
-R#: R11660127\\
+Class: Human Computer Interaction, CS 5332\
+Name: Bao Dien Quoc Nguyen\
+R#: R11660127\
 No. : 12
 
 ## Getting C: ANALYZE AN INTERFACE
