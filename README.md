@@ -7,9 +7,9 @@ No. : 12
 
 ## Links
 
-[Presentation page](https://baodnguyen.github.io/HCI_Homework1/).
-[GitHub repository](https://github.com/BaoDNguyen/HCI_Homework1).
-[OneDrive link](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EYiDKctUrtdAhdTymOh7VmcBcR7UAWR6NH_haZdMbvXGPA?e=s7Deo6).
+[Presentation page](https://baodnguyen.github.io/HCI_Homework1/).\
+[GitHub repository](https://github.com/BaoDNguyen/HCI_Homework1).\
+[OneDrive link](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EYiDKctUrtdAhdTymOh7VmcBcR7UAWR6NH_haZdMbvXGPA?e=s7Deo6).\
 [Source link](https://github.com/BaoDNguyen/HCI_Homework1/blob/master/BaoDNguyen.zip).
 
 
