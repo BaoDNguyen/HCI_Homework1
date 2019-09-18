@@ -9,8 +9,8 @@ No. : 12
 
 The figures below are interface of elevator in the building of Department of Industrial, Manufacturing & Systems Engineering.
 
-![graph1](https://github.com/BaoDNguyen/HCI_Homework1/blob/master/elevator0.png)
-![graph2](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
+![IMS_elevator](https://github.com/BaoDNguyen/HCI_Homework1/blob/master/elevator0.png)
+![Bao_gif](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
 
 This interface has several excellent points as well as inconveniences for users, especially for international students.
 However, I only focus on its bad design.
