@@ -19,7 +19,7 @@ The figure below is interface of elevator in the building of Department of Indus
 Its users may come from many different cultures and languages.
 
 ![graph0](https://i.imgur.com/ZhDDi60.png)
-![Bao_gif](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
+![gif1](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
 
 This interface has several excellent points as well as some inconveniences for users, especially for international students.
 However, I only focus on its bad design.
