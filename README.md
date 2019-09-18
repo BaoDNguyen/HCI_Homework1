@@ -59,4 +59,4 @@ Because, the side size of the button can be change after being pressed and at th
 
 ## Getting A: INTERACTIVE INTERFACE
 
-[Click here](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EYiDKctUrtdAhdTymOh7VmcBcR7UAWR6NH_haZdMbvXGPA?e=8BGBWl) to get the zip file of application.
+[Click here](https://texastechuniversity-my.sharepoint.com/:f:/g/personal/bao_d_nguyen_ttu_edu/El8jCq-Vpi1OuKQ-cvR_G4wBDg_aA5GTo8FIS4DKMPOoKg?e=kdMaeU) to get the zip file of application.
