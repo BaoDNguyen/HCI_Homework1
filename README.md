@@ -3,13 +3,13 @@
 Class: Human Computer Interaction, CS 5332\
 Name: Bao Dien Quoc Nguyen\
 R#: R11660127\
-No. : 12
+**ID# : 12**
 
 ## Links
 
-[Presentation page](https://baodnguyen.github.io/HCI_Homework1/).
-[GitHub repository](https://github.com/BaoDNguyen/HCI_Homework1).
-[OneDrive link](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EYiDKctUrtdAhdTymOh7VmcBcR7UAWR6NH_haZdMbvXGPA?e=s7Deo6).
+[Presentation page](https://baodnguyen.github.io/HCI_Homework1/).\
+[GitHub repository](https://github.com/BaoDNguyen/HCI_Homework1).\
+[OneDrive link](https://texastechuniversity-my.sharepoint.com/:u:/g/personal/bao_d_nguyen_ttu_edu/EYiDKctUrtdAhdTymOh7VmcBcR7UAWR6NH_haZdMbvXGPA?e=s7Deo6).\
 [Source link](https://github.com/BaoDNguyen/HCI_Homework1/blob/master/BaoDNguyen.zip).
 
 
@@ -19,7 +19,7 @@ The figure below is interface of elevator in the building of Department of Indus
 Its users may come from many different cultures and languages.
 
 ![graph0](https://i.imgur.com/ZhDDi60.png)
-![Bao_gif](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
+![gif1](https://media.giphy.com/media/QC7ldb8khc5ngdYPu8/giphy.gif)
 
 This interface has several excellent points as well as some inconveniences for users, especially for international students.
 However, I only focus on its bad design.
